@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node . echo puppeteer session created "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^23.8.0"
+  }
+}
